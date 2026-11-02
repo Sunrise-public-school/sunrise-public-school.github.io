@@ -1,9 +1,15 @@
-SYFLE INDUSTRY WEBSITE — FIXED IMAGE PACKAGE
+SYFLE INDUSTRY — REDESIGNED WEBSITE
 
-This package is structured for GitHub Pages: index.html is at the ZIP root and all product photos are in the images/ folder.
+This package keeps the existing brand details, product collections, WhatsApp ordering number and social links, with a refreshed responsive design.
 
-IMPORTANT: Upload the CONTENTS of this folder to the ROOT of your GitHub repository. Do not upload the parent folder itself. The repository root should show: index.html and images/
+UPLOAD INSTRUCTIONS:
+1. Extract this ZIP on your phone/computer.
+2. Open your GitHub repository: syfleindustry-collab/syfleindustry.github.io
+3. Upload/replace index.html in the repository ROOT.
+4. Upload the entire images folder (including all image files) to the repository ROOT.
+5. Commit the changes. Wait a few minutes, then refresh the live website.
 
-Then wait for GitHub Pages to deploy and open: https://syfleindustry-collab.github.io/syfleindustry.github.io/
+IMPORTANT: Do not upload the ZIP itself. The repository root must contain index.html and an images folder side by side.
 
-Includes separate T-Shirts, Hoodies and Tracksuits sections; WhatsApp order buttons; Facebook, Instagram and TikTok links.
+WhatsApp: +92 336 9362893
+Facebook, Instagram and TikTok links are retained from the previous version.
