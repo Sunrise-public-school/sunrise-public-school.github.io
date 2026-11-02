@@ -1,8 +1,9 @@
-SYFLE INDUSTRY WEBSITE
+SYFLE INDUSTRY WEBSITE — FIXED IMAGE PACKAGE
 
-1. Extract this ZIP file.
-2. Upload index.html and the complete images folder to the root of your GitHub Pages repository.
-3. Keep the images folder beside index.html (do not rename it).
-4. The website includes separate T-Shirts, Hoodies and Tracksuits sections, large Syfle Industry branding, WhatsApp order links, and Facebook/Instagram/TikTok links.
+This package is structured for GitHub Pages: index.html is at the ZIP root and all product photos are in the images/ folder.
 
-Note: The current package includes five hoodie visuals cropped from the supplied brand showcase and the three supplied tracksuit photos. Individual T-shirt product photos were not available in the files used for this rebuild, so the T-Shirts section directs visitors to WhatsApp for the current catalogue.
+IMPORTANT: Upload the CONTENTS of this folder to the ROOT of your GitHub repository. Do not upload the parent folder itself. The repository root should show: index.html and images/
+
+Then wait for GitHub Pages to deploy and open: https://syfleindustry-collab.github.io/syfleindustry.github.io/
+
+Includes separate T-Shirts, Hoodies and Tracksuits sections; WhatsApp order buttons; Facebook, Instagram and TikTok links.
